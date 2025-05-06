@@ -1,29 +1,27 @@
 <!-- SVG TYPING -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007FFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;Welcome+to+my+GitHub+profile!+🤗;My+name+is+Moustapha+Ibrahima+Ba+👨🏾;I+am+a+computer+science+engineer+🧑🏾‍🎓;I+am+passionate+about+programming+💻;I+love+sharing+knowledge+📚;I+am+an+enthusiastic+problem+solver+🧩;I+am+a+lifelong+learner+📖;I+would+like+to+be+an+open-source+contributor+🌐;Coding+is+my+passion+❤️;I+am+a+tech+enthusiast+🚀;I+enjoy+teaching+others+🎓;I+am+always+curious+and+creative+🧠)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007FFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;Welcome+to+my+GitHub+profile!+🤗;My+name+is+Bakary+Diassy+👨🏾;I+am+a+Web/Mobile+Developer+📱💻;I+am+passionate+about+coding+❤️;I+love+sharing+knowledge+📚;I+am+an+enthusiastic+problem+solver+🧩;I+am+a+lifelong+learner+📖;I+would+like+to+be+an+open-source+contributor+🌐;Technology+inspires+me+🚀;I+enjoy+helping+others+🎓;I+am+curious+and+creative+🧠)](https://git.io/typing-svg)
 
 <!-- ILLUSTRATION'S IMAGE -->
 <img align="right" alt ="coding" width="600" src="https://technostupid.com/frontend/images/95116-coder.gif">
 
 <!-- DESCRIPTION -->
-👨🏾‍💻 **Moustapha Ibrahima Ba**
+👨🏾‍💻 **Bakary Diassy**
 
-Computer Science **Engineer** 🧑🏾‍🎓 
+Web/Mobile **Developer** 📱💻
 
-Passionate about **programming** 💻 
+Passionate about **coding** ❤️
 
-Love sharing **knowledge** 📚 
+Love sharing **knowledge** 📚
 
-Enthusiastic **Problem Solver** 🧩 
+Enthusiastic **Problem Solver** 🧩
 
-Lifelong **Learner** 📖 
+Lifelong **Learner** 📖
 
-Future Open-Source **Contributor** 🌐 
+Future Open-Source **Contributor** 🌐
 
-Coding is my **Passion** ❤️ 
+Technology **Inspires** me 🚀
 
-Tech **Enthusiast** 🚀 
-
-Enjoy **Teaching** Others 🎓 
+Enjoy **Helping Others** 🎓
 
 Always **Curious** and **Creative** 🧠
 
@@ -41,7 +39,7 @@ Always **Curious** and **Creative** 🧠
     </td>
     <td style="border: 1px solid #ddd; padding: 8px;">
       <a href="https://code.visualstudio.com/">
-        <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>
+        <img height="48px" width="48px" alt="VS Code Icon" src="https://skillicons.dev/icons?i=vscode"/>
       </a>
     </td>
   </tr>
@@ -53,7 +51,7 @@ Always **Curious** and **Creative** 🧠
     </td>
     <td style="border: 1px solid #ddd; padding: 8px;">
       <a href="https://github.com/">
-        <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>
+        <img height="48px" width="48px" alt="GitHub Icon" src="https://skillicons.dev/icons?i=github"/>
       </a>
     </td>
   </tr>
@@ -65,7 +63,7 @@ Always **Curious** and **Creative** 🧠
     </td>
     <td style="border: 1px solid #ddd; padding: 8px;">
       <a href="https://git-scm.com/">
-        <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>
+        <img height="48px" width="48px" alt="Git Icon" src="https://skillicons.dev/icons?i=git"/>
       </a>
     </td>
   </tr>
@@ -76,8 +74,20 @@ Always **Curious** and **Creative** 🧠
       </a>
     </td>
     <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://www.anaconda.com/">
-        <img height="48px" width="48px" alt="Python Icon" src="https://skillicons.dev/icons?i=anaconda"/>
+      <a href="https://flutter.dev/">
+        <img height="48px" width="48px" alt="Flutter Icon" src="https://skillicons.dev/icons?i=flutter"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://www.python.org/">
+        <img height="48px" width="48px" alt="Php Icon" src="https://skillicons.dev/icons?i=php"/>
+      </a>
+    </td>
+    <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://flutter.dev/">
+        <img height="48px" width="48px" alt="sql Icon" src="https://skillicons.dev/icons?i=mysql"/>
       </a>
     </td>
   </tr>
@@ -85,6 +95,6 @@ Always **Curious** and **Creative** 🧠
 
 <!-- QUOTE -->
 <p align="right">
-    <q>Passion drives me, Curiosity guides me</q> <br> 
-    - <b>Moustapha Ibrahima Ba<b> aka <i>mr-mib</i>
+    <q>Code avec passion, partage avec cœur, apprend sans fin</q> <br> 
+    - <b>Bakary Diassy</b> aka <i>l'alchimiste du code</i>
 </p>
